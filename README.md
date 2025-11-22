@@ -1,5 +1,5 @@
 # Waste material detection using deep learning technology used like yolov8,yolov7 tiny,ssd_mobilenet, efficientdetD0
-
+[Paper Link](https://link.springer.com/chapter/10.1007/978-3-031-62217-5_7)
 Dataset contains overall 212 images with a
 total of 20,297 annotations with an average of 97.5 per image across 14 classes namely
 board boxes, burnt paper, glass waste, plastic bottles, packets, plastic bags, non-plastic
