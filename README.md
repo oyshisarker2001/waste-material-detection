@@ -1,5 +1,5 @@
 # Waste material detection using deep learning technology used like yolov8,yolov7 tiny,ssd_mobilenet, efficientdetD0
-![Paper Link](https://drive.google.com/file/d/1CZtxiG0at9p62osX2Krcy43iE5naXQSh/view?usp=sharing)
+![Paper Link](https://drive.google.com/drive/u/0/folders/13QPb3oUijVMem19bEvuR5WesEc4Ub4UM)
 
 
 Dataset contains overall 212 images with a
